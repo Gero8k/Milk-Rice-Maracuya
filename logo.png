@@ -1,0 +1,6 @@
+git init
+git add index.html logo.png
+git commit -m "Subiendo la página de arroz con leche"
+git branch -M main
+git remote add origin https://github.com/TU-USUARIO/arroz-con-leche-maracuya.git
+git push -u origin main
